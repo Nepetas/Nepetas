@@ -1,5 +1,5 @@
 ### - 👋 Hi there
-## - ⌨️ I'am Meg, I'am also the main developer of Flask( https://github.com/Flask-Discord/Flask)
+# - ⌨️ I'am Meg, I'am also the main developer of Flask( https://github.com/Flask-Discord/Flask)
 # - 🚗 I'am also a bit fan of cars (jdm) 
 
 <!--
