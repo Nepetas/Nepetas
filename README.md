@@ -1,6 +1,6 @@
 # - 👋 Hi there
 # - ⌨️ I'am Meg, I'am also the main developer of Flask https://github.com/Flask-Discord/Flask
-# - 🚗 I'am also a bit fan of cars (jdm) 
+# - 🚗 I'am also a big fan of cars (jdm) 
 
 <!--
 **Ohmeg/Ohmeg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
