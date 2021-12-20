@@ -1,6 +1,8 @@
 # - 👋 Hi there
 # - ⌨️ I'm Meg, I am also the main developer of [Flask](https://github.com/Flask-Discord/Flask)
 # - 🚗 I'm also a big fan of cars [JDM](https://en.wikipedia.org/wiki/Japanese_domestic_market)
+![Stats](https://github-readme-stats.vercel.app/api?username=Ohmeg&theme=dark)
+
 
 <!--
 **Ohmeg/Ohmeg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
