@@ -1,5 +1,5 @@
 # - 👋 Hi there
-# - ⌨️ I'm Meg, I'am also the main developer of [Flask](https://github.com/Flask-Discord/Flask)
+# - ⌨️ I'm Meg, I am also the main developer of [Flask](https://github.com/Flask-Discord/Flask)
 # - 🚗 I'm also a big fan of cars [JDM](https://en.wikipedia.org/wiki/Japanese_domestic_market)
 
 <!--
