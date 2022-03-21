@@ -4,11 +4,11 @@
 <hr>
 
 ### Stats
-[![Profile views](https://gpvc.arturio.dev/ohmeg-git)]
+[![Profile views](https://gpvc.arturio.dev/ohmeg-git)
 
-![Flask Discord Stats](https://img.shields.io/discord/930631518953553980?label=Flask%20Discord)]
+![Flask Discord Stats](https://img.shields.io/discord/930631518953553980?label=Flask%20Discord)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ohmeg&theme=tokyonight)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ohmeg&theme=tokyonight)
 
 
 
