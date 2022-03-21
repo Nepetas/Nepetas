@@ -1,8 +1,16 @@
-# - 👋 Hi there
-# - ⌨️ I'm Meg, I am also the main developer of [Flask](https://github.com/Flask-Discord/Flask)
-# - 🚗 I'm also a big fan of cars [JDM](https://en.wikipedia.org/wiki/Japanese_domestic_market)
-![Stats](https://github-readme-stats.vercel.app/api?username=Ohmeg&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ohmeg&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+### About
+[![Generic badge](https://img.shields.io/static/v1?label=%E2%A0%80&message=Javascript&color=yellow&style=for-the-badge&logo=javascript)](https://shields.io/) 
+ 
+[![Generic badge](https://img.shields.io/static/v1?label=API&message=Discord&color=hotpink&style=for-the-badge&logo=graphql)](https://shields.io/) 
+<hr>
+
+### Stats
+[![Profile views](https://gpvc.arturio.dev/ezrael-git)](https://github.com/ohmeg)
+https://img.shields.io/discord/930631518953553980?label=Flask%20Discord
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ezrael-git&theme=tokyonight)
+
 
 
 <!--
