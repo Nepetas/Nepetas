@@ -7,9 +7,10 @@
 
 ### Stats
 [![Profile views](https://gpvc.arturio.dev/ezrael-git)](https://github.com/ohmeg)
-https://img.shields.io/discord/930631518953553980?label=Flask%20Discord
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ezrael-git&theme=tokyonight)
+[![Flask Discord Stats](https://img.shields.io/discord/930631518953553980?label=Flask%20Discord)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ohmeg&theme=tokyonight)
 
 
 
