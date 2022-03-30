@@ -4,10 +4,10 @@
 <hr>
 
 ### Stats
-[![Profile views](https://gpvc.arturio.dev/Ohmeg)](https://github.com/Ohmeg)
+[![Profile views](https://gpvc.arturio.dev/Nepetas)](https://github.com/Nepetas
 ![Flask Discord Stats](https://img.shields.io/discord/930631518953553980?label=Flask%20Discord)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ohmeg&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nepetas&theme=dark)
 
 
 
